@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/stars/titenq/menj.svg) ![](https://img.shields.io/github/forks/titenq/menj.svg) ![](https://img.shields.io/github/issues/titenq/menj.svg) 
+![](https://img.shields.io/github/stars/titenq/menj?logo=github) ![](https://img.shields.io/github/forks/titenq/menj?logo=github) ![GitHub issues](https://img.shields.io/github/issues/titenq/menj?logo=github) ![npm](https://img.shields.io/npm/v/menj?logo=npm)
 
 # MENJ
 
