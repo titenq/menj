@@ -6,7 +6,7 @@ module.exports = {
     const {
       parameters,
       template: { generate },
-      print: { success, error, warning },
+      print: { success, error, warning, info },
       installPackages,
       filesystem
     } = toolbox;
@@ -47,5 +47,9 @@ module.exports = {
     await installPackages(props);
 
     success(`Project ${project} created successful!`);
+
+    info('***************************************************');
+    info('*  Edit .env file with your MongoDB credentials.  *');
+    info('***************************************************');
   }
 }
