@@ -1,7 +1,23 @@
 {
   "name": "menj",
   "version": "0.0.1",
-  "description": "menj CLI",
+  "description": "MENJ CLI - Scaffold for API with NodeJS, Express, MongoDB and JWT.",
+  "author": "TitenQ <titenq@gmail.com>",
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/titenq/menj.git"
+  },
+  "homepage": "https://github.com/titenq/menj",
+  "keywords": [
+    "express",
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "jwt",
+    "api"
+  ],
   "private": true,
   "bin": {
     "menj": "bin/menj"
