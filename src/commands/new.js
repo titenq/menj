@@ -30,7 +30,7 @@ module.exports = {
       'src/app/controllers/authController.js.ejs',
       'src/app/controllers/index.js.ejs',
       'src/app/middlewares/auth.js.ejs',
-      'src/app/models/user.js.ejs',
+      'src/app/models/User.js.ejs',
       'src/database/index.js.ejs'
     ];
 
