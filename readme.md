@@ -1,25 +1,23 @@
-# menj CLI
+![](https://img.shields.io/github/stars/titenq/menj.svg) ![](https://img.shields.io/github/forks/titenq/menj.svg) ![](https://img.shields.io/github/issues/titenq/menj.svg) 
 
-A CLI for menj.
+# MENJ
 
-## Customizing your CLI
+MENJ CLI - Scaffold for API with NodeJS, Express, MongoDB and JWT.
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+### NPM
+[https://www.npmjs.com/package/menj](https://www.npmjs.com/package/menj "https://www.npmjs.com/package/menj")
 
-## Publishing to NPM
+### Install
+- npm install -g menj
 
-To package your CLI up for NPM, do this:
+### Use
+- menj new your-project
 
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
+### Screenshot
 
-# License
+![](https://github.com/titenq/menj/blob/master/screenshot.png?raw=true)
+
+### License
 
 MIT - see LICENSE
 
