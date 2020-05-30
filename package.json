@@ -1,6 +1,6 @@
 {
   "name": "menj",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "MENJ CLI - Scaffold for API with NodeJS, Express, MongoDB and JWT.",
   "author": "TitenQ <titenq@gmail.com>",
   "contributors": [
