@@ -22,6 +22,7 @@
   "bin": {
     "menj": "bin/menj"
   },
+  "preferGlobal": true,
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
     "lint": "standard",
